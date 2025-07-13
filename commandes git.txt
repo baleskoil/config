@@ -1,3 +1,14 @@
 git add 
 git commit -m "  "
 git push --set-upstream origin master
+
+
+
+sudo git add --all
+git commit
+git push -u origin --all
+
+
+https://github.com/helgeklein/OS-Conf-Backup-Linux/
+
+https://www.w3schools.com/git/git_commit.asp?remote=github
